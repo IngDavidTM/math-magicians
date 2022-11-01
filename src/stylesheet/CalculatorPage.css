@@ -1,0 +1,15 @@
+.calculatorPage {
+  display: flex;
+  height: 80vh;
+  justify-content: space-around;
+  padding: 270px 0;
+  flex-wrap: wrap;
+}
+
+.calculatorPage h2 {
+  font-size: 26px;
+  background-color: #ffffffc5;
+  backdrop-filter: blur(5px);
+  border-radius: 5px;
+  align-self: flex-start;
+}

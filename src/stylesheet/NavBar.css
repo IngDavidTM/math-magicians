@@ -1,0 +1,30 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffffc5;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 1px 7px #ccc;
+}
+
+nav h1 {
+  font-size: 50px;
+  padding: 20px;
+  color: #6f9d50;
+}
+
+nav ul {
+  display: flex;
+  padding: 20px;
+  color: #50959d;
+}
+
+nav li {
+  list-style: none;
+  padding: 15px;
+}
+
+nav li:nth-child(even) {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
