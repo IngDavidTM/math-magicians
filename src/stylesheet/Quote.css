@@ -1,0 +1,13 @@
+.quote {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote h2 {
+  max-width: 1000px;
+  width: 80%;
+  font-size: 26px;
+  text-align: justify;
+}
