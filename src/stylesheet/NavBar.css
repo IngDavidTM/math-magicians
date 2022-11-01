@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav h1 {
+  font-size: 30px;
+  padding: 20px;
+}
+
+nav ul {
+  display: flex;
+  padding: 20px;
+}
+
+nav li {
+  list-style: none;
+  padding: 15px;
+}
+
+nav li:nth-child(even) {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}

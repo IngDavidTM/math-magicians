@@ -2,16 +2,23 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import './App.css';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import CalculatorPage from './pages/CalculatorPage';
 import Quote from './pages/Quote';
+import NavBar from './components/NavBar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Home />
-    <CalculatorPage />
-    <Quote />
+    <BrowserRouter>
+      <NavBar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<CalculatorPage />} />
+        <Route path="/quote" element={<Quote />} />
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>,
 );
 
