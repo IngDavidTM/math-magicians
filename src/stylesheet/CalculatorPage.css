@@ -11,4 +11,5 @@
   background-color: #ffffffc5;
   backdrop-filter: blur(5px);
   border-radius: 5px;
+  align-self: flex-start;
 }
