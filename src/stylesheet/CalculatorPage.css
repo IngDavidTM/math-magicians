@@ -1,0 +1,11 @@
+.calculatorPage {
+  display: flex;
+  height: 80vh;
+  justify-content: space-around;
+  padding: 270px 0;
+  flex-wrap: wrap;
+}
+
+.calculatorPage h2 {
+  font-size: 26px;
+}
