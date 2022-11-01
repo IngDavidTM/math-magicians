@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import './App.css';
+import Home from './pages/Home';
+import CalculatorPage from './pages/CalculatorPage';
+import Quote from './pages/Quote';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Home />
+    <CalculatorPage />
+    <Quote />
   </React.StrictMode>,
 );
 
