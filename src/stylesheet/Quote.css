@@ -10,4 +10,7 @@
   width: 80%;
   font-size: 26px;
   text-align: justify;
+  background-color: #ffffffc5;
+  backdrop-filter: blur(5px);
+  border-radius: 5px;
 }
