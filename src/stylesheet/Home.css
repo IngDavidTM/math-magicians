@@ -1,0 +1,18 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.home h2 {
+  font-size: 26px;
+}
+
+.home p {
+  font-size: 20px;
+  max-width: 1000px;
+  text-align: justify;
+}
