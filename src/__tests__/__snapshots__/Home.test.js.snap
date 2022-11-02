@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Home page 1`] = `
+<div
+  className="home"
+>
+  <h2>
+    Welcome to our page
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere.
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus sed quia nisi quos ipsum et possimus ducimus reiciendis deserunt quasi, alias facilis odio sunt porro magni dolorum autem ipsa facere.
+  </p>
+</div>
+`;
