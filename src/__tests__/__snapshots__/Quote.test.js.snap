@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Quote 1`] = `
+<div
+  className="quote"
+>
+  <h2>
+    Mathemathics is not about numbers, equations, computations, or algorithms; it is about undertanding. -William Paul Thurston
+  </h2>
+</div>
+`;
