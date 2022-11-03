@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render NavBar 1`] = `
+exports[`test snapshop should render NavBar 1`] = `
 <nav>
   <h1>
     Math Magicians
